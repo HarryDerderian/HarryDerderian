@@ -10,11 +10,11 @@ My journey into cybersecurity has been particularly exciting—I’ve actively p
   <a href="https://www.linkedin.com/in/harryderderian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
   </a>
-
+    &nbsp;&nbsp;&nbsp;
   <a href="https://app.hackthebox.com/profile/1661112" target="_blank">
     <img src="https://img.shields.io/badge/hackthebox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=brightgreen" target="_blank" />
   </a>
-
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:harrygeorgederderianiii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
