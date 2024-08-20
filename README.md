@@ -14,9 +14,9 @@ My journey into cybersecurity has been particularly exciting—I’ve actively p
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-<br/>
+
 <div align="center">
-    <h2 align="center">Languages and Tools</h2>
+    <h2>Languages and Tools</h2>
     <img src="https://skillicons.dev/icons?i=kali,vim,windows,linux,bash" /><br>
     <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,sqlite,vscode,visualstudio,ai,git,github" /><br>
 </div>
