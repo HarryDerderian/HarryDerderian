@@ -14,8 +14,8 @@ My journey into cybersecurity has been particularly exciting—I’ve actively p
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
   </a>
   </a>
-  <a href="https://www.hackthebox.com/" target="_blank">
-    <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" target="_blank" />
+  <a href="https://app.hackthebox.com/profile/overview" target="_blank">
+    <img src="https://img.shields.io/badge/hackthebox-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
   </a>
 </div>
 
