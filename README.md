@@ -8,7 +8,7 @@
 My journey into cybersecurity has been particularly exciting—I’ve actively participated in capture the flag (CTF) competitions and even placed top 3 in a mock penetration testing tournament. Whether I’m exploring the binary depths of software to uncover buffer overflow exploits or crafting innovative projects with Python, I’m committed to expanding my knowledge and skills in all facets of programming and cybersecurity.</h3>
 <div align="center"> 
   <a href="mailto:harrygeorgederderianiii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="margin-right: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/harryderderian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
