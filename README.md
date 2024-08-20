@@ -15,8 +15,8 @@ My journey into cybersecurity has been particularly exciting—I’ve actively p
   </a>
 </div>
 <br/>
-<h2 align="center">Languages and Tools</h2>
 <div align="center">
+    <h2 align="center">Languages and Tools</h2>
     <img src="https://skillicons.dev/icons?i=kali,vim,windows,linux,bash" /><br>
     <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,sqlite,vscode,visualstudio,ai,git,github" /><br>
 </div>
