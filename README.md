@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HarryDerderian.HarryDerderian" />
 
-# ☠ 🛡 Harry Derderian 💻🔑
+<p align="center">
+  <h1>☠ 🛡 Harry Derderian 💻🔑</h1>
+</p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Virtual+Pioneer+;+Programmer+;+Pentester+;+Problem+Solver+;" />
 </h1>
@@ -20,6 +22,6 @@ My journey into cybersecurity has been particularly exciting—I’ve actively p
 <h2 align="center">Languages and Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kali,vim,windows,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=kali,vim,windows,linux,bash" /><br>
     <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,sqlite,vscode,visualstudio,ai,git,github" /><br>
 </div>
