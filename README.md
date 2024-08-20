@@ -7,12 +7,12 @@
 <h3>Welcome to my GitHub page! I'm Harry Derderian, a passionate computer science student with a deep curiosity for the ever-evolving world of cyberspace. Driven by a desire to continually learn and grow, I dive into side projects that not only test my programming skills but also enhance my problem-solving abilities.
 My journey into cybersecurity has been particularly exciting—I’ve actively participated in capture the flag (CTF) competitions and even placed top 3 in a mock penetration testing tournament. Whether I’m exploring the binary depths of software to uncover buffer overflow exploits or crafting innovative projects with Python, I’m committed to expanding my knowledge and skills in all facets of programming and cybersecurity.</h3>
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/harryderderian/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-34abeb?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
+  <a href="https://www.linkedin.com/in/harryderderian/">
+    <img src="https://img.shields.io/badge/LinkedIn-34abeb?style=for-the-badge&logo=linkedin&logoColor=blue"/>
   </a>
     &nbsp;&nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/profile/1661112" target="_blank">
-    <img src="https://img.shields.io/badge/hackthebox-08080d?style=for-the-badge&logo=hackthebox&logoColor=brightgreen" target="_blank" />
+  <a href="https://app.hackthebox.com/profile/1661112">
+    <img src="https://img.shields.io/badge/hackthebox-08080d?style=for-the-badge&logo=hackthebox&logoColor=brightgreen"/>
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:harrygeorgederderianiii@gmail.com">
