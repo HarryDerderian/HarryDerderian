@@ -8,15 +8,15 @@
 My journey into cybersecurity has been particularly exciting—I’ve actively participated in capture the flag (CTF) competitions and even placed top 3 in a mock penetration testing tournament. Whether I’m exploring the binary depths of software to uncover buffer overflow exploits or crafting innovative projects with Python, I’m committed to expanding my knowledge and skills in all facets of programming and cybersecurity.</h3>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/harryderderian/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9FEF00?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-34abeb?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://app.hackthebox.com/profile/1661112" target="_blank">
-    <img src="https://img.shields.io/badge/hackthebox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=brightgreen" target="_blank" />
+    <img src="https://img.shields.io/badge/hackthebox-08080d?style=for-the-badge&logo=hackthebox&logoColor=brightgreen" target="_blank" />
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:harrygeorgederderianiii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-9FEF00?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Gmail-e1f0f7?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </div>
 
