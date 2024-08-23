@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HarryDerderian.HarryDerderian" />
 
-<h1 align="center">☠ 🛡 Harry Derderian 💻🔑</h1>
+<h1 align="center">Harry Derderian</h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Virtual+Pioneer+;+Programmer+;+Pentester+;+Problem+Solver+;+Algorithm+Alchemist;+Cybersecurity+Savant+;+Code+Connoisseur+;+Syntactic+Sugar+Maestro+;+Binary+Wizard+;+Debugging+Demigod+;+Malware+Mangler+;" />
 </h1>
@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,sqlite,vscode,visualstudio,ai,git,github" /><br>
 </div>
 
-<h1 align="center">some of my projects:</h1>
+<h1 align="center">Some of My Projects:</h1>
 
 | Voiceit  | MAZE-GENERATOR |
 | ----------- | ----------- |
